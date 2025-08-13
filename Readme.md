@@ -255,6 +255,21 @@ GO
 </table>
 
 <div align="center" style="margin: 40px 0;">
-
-**📧 Contact:** [thilankawijesingham@gmail.com](mailto:thilankawijesingham@gmail.com) | **🌐 LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
 </div>
+
+---
+
+## 👤 Author
+
+**Thilanka Wijesingha**  
+
+📧 thilankawijesingha@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/thilanka-wijesingha-a88105284/)  
+
+---
+
+## ⭐ Like this project?
+
+Give it a ⭐️ on GitHub to show your support!
+
+---
